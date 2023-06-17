@@ -16,8 +16,10 @@ This is a project that uses a LSTM (Long Short-Term Memory) to generate music ba
 
 - Clone this repository or download the files.
 - Run the `Music_Generator.ipynb` notebook in Google Colab or Jupyter Notebook.
-- Upload your favourite music files into runtime storage.
+- Upload your favourite music MIDI files into runtime storage.
 - Execute all the cells.
+- Download the processed MIDI file.
+- Open it with any Music production software (Ex. LMMS)
 - Enjoy the music!
 
 ## Acknowledgements
